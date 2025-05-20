@@ -1,0 +1,2 @@
+- Chạy ở chế độ Any CPU, nếu vì dường như KAutoHelper build ở dạng 32bit
+- Tuturial -> [Youtube](https://www.youtube.com/watch?v=5-pVeBQAl0U&list=PL33lvabfss1wYkTlC4Kpn0RR7Eb2tUNjR&index=4)
